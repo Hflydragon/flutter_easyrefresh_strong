@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:example/widget/sample_list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
-import 'package:flutter_easyrefresh/phoenix_header.dart';
-import 'package:flutter_easyrefresh/phoenix_footer.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/phoenix_header.dart';
+import 'package:flutter_easyrefresh_strong/phoenix_footer.dart';
 
 /// 金色校园样式
 class PhoenixPage extends StatefulWidget {

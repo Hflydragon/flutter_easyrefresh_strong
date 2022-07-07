@@ -11,7 +11,7 @@ import 'package:example/page/style/taurus.dart';
 import 'package:example/widget/circular_icon.dart';
 import 'package:example/widget/list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
 import 'package:example/generated/i18n.dart';
 
 /// 样式页面

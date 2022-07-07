@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:example/widget/sample_list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
 import 'package:extended_nested_scroll_view/extended_nested_scroll_view.dart'
     as extended;
 

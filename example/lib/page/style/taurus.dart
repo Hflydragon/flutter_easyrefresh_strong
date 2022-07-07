@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:example/widget/sample_list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
-import 'package:flutter_easyrefresh/taurus_header.dart';
-import 'package:flutter_easyrefresh/taurus_footer.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/taurus_header.dart';
+import 'package:flutter_easyrefresh_strong/taurus_footer.dart';
 
 /// 冲上云霄样式
 class TaurusPage extends StatefulWidget {

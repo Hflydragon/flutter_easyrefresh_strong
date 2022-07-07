@@ -4,15 +4,15 @@
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://stackoverflow.com/questions/tagged/flutter?sort=votes)
 [![Pub](https://img.shields.io/pub/v/flutter_easyrefresh)](https://pub.flutter-io.cn/packages/flutter_easyrefresh)
 
-## [English](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/README_EN.md) | 中文
+## [English](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/README_EN.md) | 中文
 
 正如名字一样，EasyRefresh很容易就能在Flutter应用上实现下拉刷新以及上拉加载操作，它支持几乎所有的Flutter控件。它的功能与Android的SmartRefreshLayout很相似，同样也吸取了很多三方库的优点。EasyRefresh中集成了多种风格的Header和Footer，但是它并没有局限性，你可以很轻松的自定义。使用Flutter强大的动画，甚至随便一个简单的控件也可以完成。EasyRefresh的目标是为Flutter打造一个强大，稳定，成熟的下拉刷新框架。
 
 Web版本移步：[vue-easyrefresh](https://github.com/xuelongqy/vue-easyrefresh)
 
-Demo：[下载 apk](https://github.com/xuelongqy/flutter_easyrefresh/raw/master/v2/art/pkg/EasyRefresh.apk) | [web](https://xuelongqy.github.io/flutter_easyrefresh/)
+Demo：[下载 apk](https://github.com/xuelongqy/flutter_easyrefresh_strong/raw/master/v2/art/pkg/EasyRefresh.apk) | [web](https://xuelongqy.github.io/flutter_easyrefresh_strong/)
 
-![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/apk_QRCode.png)
+![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/apk_QRCode.png)
 
 ## 特点功能:
 
@@ -26,53 +26,53 @@ Demo：[下载 apk](https://github.com/xuelongqy/flutter_easyrefresh/raw/master/
 
 ## 传送门
 
- - [属性文档](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/document/cn/PROPERTY.md)
- - [常见问题](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/document/cn/FQA.md)
- - [更新日志](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/CHANGELOG_CN.md)
- - [自定义Header和Footer](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/document/cn/CUSTOM_HEADER_FOOTER.md)
+ - [属性文档](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/document/cn/PROPERTY.md)
+ - [常见问题](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/document/cn/FQA.md)
+ - [更新日志](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/CHANGELOG_CN.md)
+ - [自定义Header和Footer](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/document/cn/CUSTOM_HEADER_FOOTER.md)
 
 
 #### 项目演示
 |基本样式|个人中心|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/basic.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/user_profile.gif)|
-|[BasicPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/basic.dart)|[UserProfilePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/user_profile.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/basic.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/user_profile.gif)|
+|[BasicPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/basic.dart)|[UserProfilePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/user_profile.dart)|
 
 |NestedScrollView|Header连接器|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/nested_scroll_view.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/link_header.gif)|
-|[NestedScrollViewPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/nested_scroll_view.dart)|[LinkHeaderPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/link_header.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/nested_scroll_view.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/link_header.gif)|
+|[NestedScrollViewPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/nested_scroll_view.dart)|[LinkHeaderPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/link_header.dart)|
 
 |首次刷新|空视图|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/first_refresh.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/empty.gif)|
-|[FirstRefreshPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/first_refresh.dart)|[EmptyPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/empty.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/first_refresh.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/empty.gif)|
+|[FirstRefreshPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/first_refresh.dart)|[EmptyPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/empty.dart)|
 
 |二楼|聊天页面|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/second_floor.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/chat.gif)|
-|[SecondFloorPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/second_floor.dart)|[ChatPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/chat.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/second_floor.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/chat.gif)|
+|[SecondFloorPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/second_floor.dart)|[ChatPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/chat.dart)|
 
 #### 样式演示
 |Material|BallPulse|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/material.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/ball_pulse.gif)|
-|[MaterialPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/material.dart)|[BallPulsePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/ball_pulse.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/material.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/ball_pulse.gif)|
+|[MaterialPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/material.dart)|[BallPulsePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/ball_pulse.dart)|
 
 |BezierCircle|BezierHourGlass|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/bezier_circle.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/bezier_hour_glass.gif)|
-|[BezierCirclePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/bezier_circle.dart)|[BezierHourGlassPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/bezier_hour_glass.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/bezier_circle.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/bezier_hour_glass.gif)|
+|[BezierCirclePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/bezier_circle.dart)|[BezierHourGlassPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/bezier_hour_glass.dart)|
 
 |Phoenix|Delivery|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/phoenix.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/taurus.gif)|
-|[PhoenixPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/phoenix.dart)|[TaurusPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/taurus.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/phoenix.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/taurus.gif)|
+|[PhoenixPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/phoenix.dart)|[TaurusPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/taurus.dart)|
 
 |Space|Delivery|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/space.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/delivery.gif)|
-|[SpacePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/space.dart)|[DeliveryPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/delivery.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/space.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/delivery.gif)|
+|[SpacePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/space.dart)|[DeliveryPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/delivery.dart)|
 
 ## 简单用例
 #### 1.在 pubspec.yaml 中添加依赖
@@ -94,7 +94,7 @@ dependencies:
 ```
 #### 2.在布局文件中添加 EasyreFresh
 ```dart
-import 'package:flutter_easyrefresh/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
 ....
   // 方式一
   EasyRefresh(
@@ -165,9 +165,9 @@ import 'package:flutter_easyrefresh/easy_refresh.dart';
 
 ## 使用指定的 Header 和 Footer
 ```dart
-import 'package:flutter_easyrefresh/easy_refresh.dart';
-import 'package:flutter_easyrefresh/material_header.dart';
-import 'package:flutter_easyrefresh/material_footer.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/material_header.dart';
+import 'package:flutter_easyrefresh_strong/material_footer.dart';
 ....
   new EasyRefresh(
     header: MaterialHeader(),

@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:example/widget/sample_list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
-import 'package:flutter_easyrefresh/bezier_circle_header.dart';
-import 'package:flutter_easyrefresh/bezier_bounce_footer.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/bezier_circle_header.dart';
+import 'package:flutter_easyrefresh_strong/bezier_bounce_footer.dart';
 
 /// 弹出圆圈样式
 class BezierCirclePage extends StatefulWidget {

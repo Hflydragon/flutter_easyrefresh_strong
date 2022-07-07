@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:example/page/sample/user_profile.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
 import 'package:example/generated/i18n.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 

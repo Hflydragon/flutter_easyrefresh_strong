@@ -2,8 +2,8 @@ import 'dart:async';
 
 import 'package:example/widget/sample_list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
-import 'package:flutter_easyrefresh/delivery_header.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/delivery_header.dart';
 
 /// 快递气球样式
 class DeliveryPage extends StatefulWidget {

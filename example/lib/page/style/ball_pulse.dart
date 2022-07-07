@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:example/widget/sample_list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
-import 'package:flutter_easyrefresh/ball_pulse_header.dart';
-import 'package:flutter_easyrefresh/ball_pulse_footer.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/ball_pulse_header.dart';
+import 'package:flutter_easyrefresh_strong/ball_pulse_footer.dart';
 
 /// 球脉冲样式
 class BallPulsePage extends StatefulWidget {

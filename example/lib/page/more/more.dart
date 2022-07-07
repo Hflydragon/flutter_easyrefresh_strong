@@ -2,7 +2,7 @@ import 'package:example/page/more/support.dart';
 import 'package:example/widget/circular_icon.dart';
 import 'package:example/widget/list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
 import 'package:example/generated/i18n.dart';
 import 'package:url_launcher/url_launcher.dart';
 

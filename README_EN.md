@@ -4,15 +4,15 @@
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://stackoverflow.com/questions/tagged/flutter?sort=votes)
 [![Pub](https://img.shields.io/pub/v/flutter_easyrefresh)](https://pub.dev/packages/flutter_easyrefresh)
 
-## English | [中文](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/README.md)
+## English | [中文](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/README.md)
 
 Just like the name, EasyRefresh can easily implement pull-down refresh and upload operations on Flutter applications. It supports almost all Flutter controls. Its functions are similar to Android's Smart Refresh Layout, and it also draws on the advantages of many tripartite libraries. EasyRefresh integrates various styles of Headers and Footers, but it has no limitations. You can easily customize it. Using Flutter's powerful animation, even a simple control can be done. EasyRefresh aims to build a strong, stable and mature drop-down refresh framework for Flutter.
 
 Web version: [vue-easyrefresh](https://github.com/xuelongqy/vue-easyrefresh)
 
-Demo：[Download apk](https://github.com/xuelongqy/flutter_easyrefresh/raw/master/v2/art/pkg/EasyRefresh.apk) | [web](https://xuelongqy.github.io/flutter_easyrefresh/)
+Demo：[Download apk](https://github.com/xuelongqy/flutter_easyrefresh_strong/raw/master/v2/art/pkg/EasyRefresh.apk) | [web](https://xuelongqy.github.io/flutter_easyrefresh_strong/)
 
-![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/apk_QRCode.png)
+![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/apk_QRCode.png)
 
 ## Features:
 
@@ -26,53 +26,53 @@ Demo：[Download apk](https://github.com/xuelongqy/flutter_easyrefresh/raw/maste
 
 ## Portal
 
- - [Properties document](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/document/en/PROPERTY.md)
- - [FAQ](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/document/en/FQA.md)
- - [Change log](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/CHANGELOG.md)
- - [Custom Header and Footer](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/document/en/CUSTOM_HEADER_FOOTER.md)
+ - [Properties document](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/document/en/PROPERTY.md)
+ - [FAQ](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/document/en/FQA.md)
+ - [Change log](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/CHANGELOG.md)
+ - [Custom Header and Footer](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/document/en/CUSTOM_HEADER_FOOTER.md)
 
 #### Project presentations
 |Basic|User profile|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/basic.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/user_profile.gif)|
-|[BasicPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/basic.dart)|[UserProfilePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/user_profile.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/basic.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/user_profile.gif)|
+|[BasicPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/basic.dart)|[UserProfilePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/user_profile.dart)|
 
 |NestedScrollView|Link header|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/nested_scroll_view.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/link_header.gif)|
-|[NestedScrollViewPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/nested_scroll_view.dart)|[LinkHeaderPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/link_header.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/nested_scroll_view.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/link_header.gif)|
+|[NestedScrollViewPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/nested_scroll_view.dart)|[LinkHeaderPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/link_header.dart)|
 
 |First refresh|Empty widget|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/first_refresh.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/empty.gif)|
-|[FirstRefreshPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/first_refresh.dart)|[EmptyPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/empty.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/first_refresh.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/empty.gif)|
+|[FirstRefreshPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/first_refresh.dart)|[EmptyPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/empty.dart)|
 
 |Second floor|Chat demo|
 |Second floor|Chat demo|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/second_floor.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/chat.gif)|
-|[SecondFloorPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/second_floor.dart)|[ChatPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/sample/chat.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/second_floor.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/chat.gif)|
+|[SecondFloorPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/second_floor.dart)|[ChatPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/sample/chat.dart)|
 
 #### Style presentations
 |Material|BallPulse|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/material.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/ball_pulse.gif)|
-|[MaterialPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/material.dart)|[BallPulsePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/ball_pulse.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/material.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/ball_pulse.gif)|
+|[MaterialPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/material.dart)|[BallPulsePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/ball_pulse.dart)|
 
 |BezierCircle|BezierHourGlass|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/bezier_circle.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/bezier_hour_glass.gif)|
-|[BezierCirclePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/bezier_circle.dart)|[BezierHourGlassPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/bezier_hour_glass.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/bezier_circle.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/bezier_hour_glass.gif)|
+|[BezierCirclePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/bezier_circle.dart)|[BezierHourGlassPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/bezier_hour_glass.dart)|
 
 |Phoenix|Delivery|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/phoenix.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/taurus.gif)|
-|[PhoenixPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/phoenix.dart)|[TaurusPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/taurus.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/phoenix.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/taurus.gif)|
+|[PhoenixPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/phoenix.dart)|[TaurusPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/taurus.dart)|
 
 |Space|Delivery|
 |:---:|:---:|
-|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/space.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh/master/v2/art/image/delivery.gif)|
-|[SpacePage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/space.dart)|[DeliveryPage](https://github.com/xuelongqy/flutter_easyrefresh/blob/v2/example/lib/page/style/delivery.dart)|
+|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/space.gif)|![](https://raw.githubusercontent.com/xuelongqy/flutter_easyrefresh_strong/master/v2/art/image/delivery.gif)|
+|[SpacePage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/space.dart)|[DeliveryPage](https://github.com/xuelongqy/flutter_easyrefresh_strong/blob/v2/example/lib/page/style/delivery.dart)|
 
 ## Sample
 #### 1.Adding dependencies to pubspec. yaml
@@ -94,7 +94,7 @@ dependencies:
 ```
 #### 2.Add EasyreFresh
 ```dart
-import 'package:flutter_easyrefresh/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
 ....
   // Way one
   EasyRefresh(
@@ -165,9 +165,9 @@ import 'package:flutter_easyrefresh/easy_refresh.dart';
 
 ## Use the specified Header and Footer
 ```dart
-import 'package:flutter_easyrefresh/easy_refresh.dart';
-import 'package:flutter_easyrefresh/material_header.dart';
-import 'package:flutter_easyrefresh/material_footer.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/material_header.dart';
+import 'package:flutter_easyrefresh_strong/material_footer.dart';
 ....
   new EasyRefresh(
     header: MaterialHeader(),

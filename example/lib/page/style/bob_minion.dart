@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:example/header/bob_minion_header.dart';
 import 'package:example/widget/sample_list_item.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_easyrefresh/easy_refresh.dart';
+import 'package:flutter_easyrefresh_strong/easy_refresh.dart';
 import 'package:example/generated/i18n.dart';
 
 /// 小黄人(Bob)样式
